@@ -1,2 +1,2 @@
-CREATE DATABASE go_social;
+CREATE DATABASE go_socialnetwork_db;
 CREATE EXTENSION IF NOT EXISTS citext;
